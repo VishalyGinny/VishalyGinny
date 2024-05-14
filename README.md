@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+### I am Vishaly!
+- 🌱 I’m currently learning Data Science.
 <!--
 **VishalyGinny/VishalyGinny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
